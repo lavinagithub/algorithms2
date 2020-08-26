@@ -9,7 +9,5 @@ function palindrome(str) {
     }
     return true;
    }
-
-   
    let result = palindrome("A man, a plan, a canal. Panama");
    console.log(result);

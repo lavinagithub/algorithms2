@@ -16,5 +16,5 @@ function sequential_search_trace(a, x) {
   }
   
   let a = [10,50,30,70,80,60,20,90,40];
-  const trace = sequential_search_trace(a,20); 
+  const trace = sequential_search_trace(a,10); 
   console.log(trace);

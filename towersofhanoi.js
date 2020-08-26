@@ -17,4 +17,4 @@
  }
 
   // call the function to start solving the puzzle for 7 disks
-  solve_tower_of_hanoi(3, "A", "C", "B");
+  solve_tower_of_hanoi(7, "A", "C", "B");
