@@ -8,7 +8,7 @@ class Graph {
     constructor(noOfVertices) 
     { 
         this.noOfVertices = noOfVertices; 
-        this.AdjList = new Map(); 
+        this.AdjList = new Map(); // ES6
     } 
   
     // functions to be implemented 
